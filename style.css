@@ -31,13 +31,62 @@ h1 {
 
 p {
   font-family: "hvd_fonts_-_brandongrotesque-regular", "Josefin Sans", sans-serif;
-  font-size: 18px; 
+  font-size: 27px; 
 }
 
 /****************/
 /* box specific */
 /****************/
 
+.lpg-narrow-experienced {
+  background: url("/wp-content/themes/apostrophe-2-child/images/lpg-columns.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.lpg-narrow-bronze {
+  background: url("/wp-content/themes/apostrophe-2-child/images/lpg-statue.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.lpg-narrow-team {
+  background: url("/wp-content/themes/apostrophe-2-child/images/lpg-gavel.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.lpg-narrow-handshake {
+  background: url("/wp-content/themes/apostrophe-2-child/images/lpg-handshake.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.lpg-narrow-ability,
+.lpg-narrow-advocate,
+.lpg-narrow-seasoned,
+.lpg-narrow-handshake {
+  height: 600px;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.lpg-narrow-experienced h1 {
+  color: #24518b;
+}
+
+.lpg-narrow-advocate p {
+  color: #766a63;
+}
+  
 .lpg-wide-bronze {
   background: url("/wp-content/themes/apostrophe-2-child/images/lpg-statue.jpg");
   background-size: cover;
@@ -55,7 +104,6 @@ p {
   color: #ffffff;
   height: 600px;
 }
-
 
 .lpg-split-experienced {
   height: 100%;
@@ -79,15 +127,7 @@ p {
   height: 100%;
 }
 
-.lpg-fullbox {
-  width: 100%;
-  /*
-  border-width: 1px;
-  border-style: solid;
-  border-color: black;
-  */
-}
-
+.lpg-narrowtable,
 .lpg-splittable {
   width: 100%;
 }
@@ -161,4 +201,3 @@ table, table td, table th {
     display: none;
   }
 }
-

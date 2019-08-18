@@ -1,0 +1,89 @@
+<!-- 
+
+experienced in matrimonial law
+
+-->
+<div class="lpg-narrowview">
+  <table class"lpg-narrowtable"><tr>
+    <td class="lpg-fullcell lpg-narrow-experienced">
+      <h1 class="wow lpg-text-blue-effect" data-wow-offset="10">EXPERIENCED<br>IN MATRIMONIAL LAW</h1>
+    </td>
+  </tr>
+  <tr>
+    <td class="lpg-fullcell lpg-narrow-advocate wow lpg-upstep" data-wow-offset="10">
+      <p>You'll have a powerful advocate with over 28 years of matrimonial practice, a wealth of trial experience, and legal knowledge that is remarkably unmatched.</p>
+    </td>
+  </tr></table>
+</div>
+<div class="lpg-wideview">  
+  <table class="lpg-splittable"><tr>
+  <td class="lpg-splitcell"><img class="lpg-vista" src="/wp-content/themes/apostrophe-2-child/images/lpg-columns.jpg"></td>
+  <td class="lpg-splitcell lpg-split-experienced wow lpg-upstep" data-wow-offset="10">
+      <h1 class="wow lpg-text-blue-effect" data-wow-offset="10">EXPERIENCED<br>IN MATRIMONIAL LAW</h1>
+      <p>You'll have a powerful advocate with over 28 years of matrimonial practice, a wealth of trial experience, and legal knowledge that is remarkably unmatched.</p></td>
+  </tr></table></div>
+<!-- 
+
+when choosing a lawyer 
+
+-->
+<div class="lpg-narrowview">
+  <table class="lpg-narrowtable"><tr>
+    <td class="lpg-fullcell lpg-narrow-bronze wow lpg-text-white-effect" data-wow-offset="10">
+      <h1>WHEN CHOOSING A LAWYER</h1>
+    </td>
+  </tr>
+  <tr>
+    <td class="lpg-fullcell lpg-narrow-ability wow lpg-text-white-effect" data-wow-offset="10">
+      <p class="wow lpg-upstep" data-wow-offset="10">Look for ability, knowledge and experience to successfully communicate your position. We provide the legal reasons why you're entitled to what you want out of your divorce to the court, an adversary or an expert.</p>
+    </td>
+  </tr></table>
+</div>
+<div class="lpg-wideview">
+  <table class="lpg-fulltable"><tr>
+  <td class="lpg-fullcell lpg-wide-bronze wow lpg-text-white-effect" data-wow-offset="10"><h1>WHEN CHOOSING A LAWYER</h1><p>Look for ability, knowledge and experience to successfully communicate your position. We provide the legal reasons why you're entitled to what you want out of your divorce to the court, an adversary or an expert.</td>
+  </tr></table>
+</div>
+<!-- 
+
+we're a team 
+
+-->
+<div class="lpg-narrowview">
+  <table class="lpg-narrowtable"><tr>
+    <td class="lpg-fullcell lpg-narrow-team">
+      <h1 class="wow lpg-text-white-effect" data-wow-offset="10">WE'RE A TEAM</h1>
+    </td>
+  </tr>
+  <tr>
+    <td class="lpg-narrow-seasoned">
+      <p>At LPG, you'll have a team of professionals along with a seasoned litigator, and energetic associates. Make no mistake, Mr. Greenberg will be your legal voice — available to you in every possible way.</p>
+    </td>
+  </tr></table>
+</div>
+<div class="lpg-wideview">
+  <table class="lpg-splittable"><tr>
+    <td class="lpg-splitcell lpg-split-experienced wow lpg-upstep" data-wow-offset="10">
+      <h1 class="wow lpg-text-blue-effect" data-wow-offset="10">WE'RE A TEAM</h1>
+      <p>At LPG, you'll have a team of professionals along with a seasoned litigator, and energetic associates. Make no mistake, Mr. Greenberg will be your legal voice — available to you in every possible way.</p></td>
+    <td class="lpg-splitcell"><img class="lpg-vista" src="/wp-content/themes/apostrophe-2-child/images/lpg-gavel.jpg"></td>
+  </tr></table>
+</div>
+<!-- 
+
+ready to begin 
+
+-->
+<div class="lpg-narrowview">
+  <table class="lpg-narrowtable"><tr>
+    <td class="lpg-fullcell lpg-narrow-handshake">
+      <h1 class="wow lpg-text-white-effect" data-wow-offset="10">READY TO BEGIN?</h1>
+      <p class="wow lpg-text-slide" data-wow-offset="10">Beginning is simple and we'll be happy to arrange a free initial personal consultation.</p>
+    </td>
+  </tr></table>
+</div>
+<div class="lpg-wideview">
+  <table class="lpg-fulltable"><tr>
+    <td class="lpg-fullcell lpg-wide-readytobegin wow lpg-text-white-effect" data-wow-offset="10"><h1>READY TO BEGIN?</h1><p>Beginning is simple and we'll be happy to arrange a free initial personal consultation.</td>
+  </tr></table>
+</div>
