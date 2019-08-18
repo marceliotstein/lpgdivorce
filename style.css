@@ -201,3 +201,245 @@ table, table td, table th {
     display: none;
   }
 }
+
+/*****************/
+/* footer styles */
+/*****************/
+
+.lpg-widefooter-td-left {
+  width: 65%;
+}
+
+.lpg-widefooter-td-right {
+  width: 35%;
+}
+
+.lpg-footer-table-wrapper {
+  padding: 0px;
+}
+
+.lpg-footer-td-left {
+  padding: 6px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.lpg-footer-td-right {
+  padding: 6px 6px 12px 12px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.lpg-footer-table {
+  width: auto;
+  margin: 0 auto;
+  font-family: "hvd_fonts_-_brandongrotesque-regular", "Josefin Sans", sans-serif;
+  font-size: 1.0em;
+  line-height: 1.2em;
+  color: #fff;
+}
+
+.lpg-footer-table a {
+  color: #fff;
+}
+
+.lpg-footer-panel {
+  text-align: center;
+  background: #2452a0 url('/wp-content/themes/apostrophe-2-child/images/lpg-footer-plain.png');
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  padding: 50px 0px 50px 0px;
+  font-family: "hvd_fonts_-_brandongrotesque-regular", "Josefin Sans", sans-serif;
+  font-size: 1.2em;
+  line-height: 1.2em;
+  color: #fff;
+  position: relative;
+  width: 100%;
+}
+
+.lpg-footer-img {
+  width: 100%;
+}
+
+.lpg-footer-icon {
+  width: 30px;
+}
+
+.lpg-footer-copyright {
+  padding: 3px 0px 3px 10px;
+  background: #ddd url('/wp-content/themes/apostrophe-2-child/images/lpg-footer-copybar.png');
+  background-size: 100%;
+  background-position: right top;
+  background-repeat: repeat;
+  width: 100%;
+  display: table;
+  vertical-align: middle;
+  font-family: "hvd_fonts_-_brandongrotesque-regular", "Josefin Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #ddd;
+}
+
+.lpg-footer-logo {
+  padding-bottom: 15px;
+}
+
+.lpg-logo-img,
+.lpg-footer-logo-img {
+  width: 100px;
+}
+
+.lpg-footer-address {
+  padding-bottom: 15px;
+  line-height: 1.5em;
+}
+
+@media (min-width: 1024px) {
+  .lpg-footer-table-wrapper {
+    float: right;
+  }
+
+  .lpg-footer-logo {
+    text-align: left;
+    padding-bottom: 0px;
+  }
+
+  .lpg-footer-address {
+    text-align: left;
+  }
+
+  .lpg-footer-panel {
+    padding: 50px 100px 50px 100px;
+  }
+}
+
+/*****************/
+/* header styles */
+/*****************/
+
+.lpg-empire-panel {
+  background: #2452a0 url('/wp-content/themes/apostrophe-2-child/images/empireblue600.jpg');
+  background-size: 100%;
+  background-position: right top;
+  background-repeat: no-repeat;
+  -webkit-animation: animatedBackground;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-duration: 3s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-direction: alternate;
+  animation: animatedBackground;
+  animation-iteration-count: 1;
+  animation-duration: 3s;
+  animation-timing-function: linear;
+  animation-direction: alternate;
+}
+
+.lpg-skyline-panel {
+  background: #2452a0 url('/wp-content/themes/apostrophe-2-child/images/skyline-narrow.jpg') top center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  -webkit-animation: animatedBackground;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-duration: 3s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-direction: alternate;
+  animation: animatedBackground;
+  animation-iteration-count: 1;
+  animation-duration: 3s;
+  animation-timing-function: linear;
+  animation-direction: alternate;
+}
+
+@media (min-width: 768px) {
+  .lpg-empire-panel {
+    background: #2452a0 url('/wp-content/themes/apostrophe-2-child/images/empireblue1000.jpg') top center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  .lpg-skyline-panel {
+    background: #2452a0 url('/wp-content/themes/apostrophe-2-child/images/skyline-wide.jpg') top center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lpg-empire-panel {
+    background: #2452a0 url('/wp-content/themes/apostrophe-2-child/images/empireblue1920.jpg') top center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lpg-empire-panel {
+    background: #2452a0 url('/wp-content/themes/apostrophe-2-child/images/empireblue1000.jpg') top center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .lpg-empire-panel {
+    background: #2452a0 url('/wp-content/themes/apostrophe-2-child/images/empireblue1920-short.jpg') top center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+}
+
+.lpg-title {
+  font-size: 1.7em;
+  font-family: "hvd_fonts_-_brandongrotesque-black", "Josefin Sans", sans-serif;
+  font-weight: 300;
+  text-align: center;
+  line-height: 1.3em;
+  letter-spacing: .1em;
+  text-shadow: 1px 1px #000;
+}
+
+.lpg-title-of {
+  font-family: "hvd_fonts_-_brandongrotesque-regular", "Josefin Sans", sans-serif;
+}
+
+.lpg-bar {
+  width: 30%;
+  color: #fff;
+  height: 0;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #000;
+  text-shadow: 1px 1px #000;
+}
+
+.lpg-home-title {
+  padding: 0px 0px 0px 0px;
+  font-size: 26.6px;
+  letter-spacing: 2.66px;
+}
+
+.lpg-maintitles {
+  color: #fff;
+  margin: 0 auto;
+  padding: 68px 0px 30px 0px;
+  position: relative;
+}
+
+.lpg-personally {
+  font-family: "hvd_fonts_-_brandongrotesque-black", "Josefin Sans", sans-serif;
+  font-size: 1em;
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 120px 0px 8px 0px;
+  color: white;
+}
+
+.lpg-adept {
+  font-family: "hvd_fonts_-_brandongrotesque-regular", "Josefin Sans", sans-serif;
+  font-size: 1em;
+  line-height: 1.3em;
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 0px 40px 62px 40px;
+  color: white;
+}
