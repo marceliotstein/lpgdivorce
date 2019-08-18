@@ -12,7 +12,9 @@
  Text Domain:  apostrophe-2-child
 */
 
-/* colors */
+/****************/
+/* basic styles */
+/****************/
 
 .lpg-blue {
   color: #24518b;
@@ -22,17 +24,38 @@
   color: #766a63;
 }
 
+h1 {
+  font-family: "hvd_fonts_-_brandongrotesque-black", "Josefin Sans", sans-serif;
+  font-size: 27px; 
+}
+
+p {
+  font-family: "hvd_fonts_-_brandongrotesque-regular", "Josefin Sans", sans-serif;
+  font-size: 18px; 
+}
+
 /****************/
 /* box specific */
 /****************/
 
-.lpg-split-marble {
-  background: url("/wp-content/themes/apostrophe-2-child/images/lpg-columns.jpg");
+.lpg-wide-bronze {
+  background: url("/wp-content/themes/apostrophe-2-child/images/lpg-statue.jpg");
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
-  color: #24518b;
+  color: #ffffff;
+  height: 600px;
 }
+
+.lpg-wide-readytobegin {
+  background: url("/wp-content/themes/apostrophe-2-child/images/lpg-handshake.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  height: 600px;
+}
+
 
 .lpg-split-experienced {
   height: 100%;
@@ -41,12 +64,10 @@
 
 .lpg-split-experienced h1 {
   color: #24518b;
-  font-size: 36px; 
 }
 
 .lpg-split-experienced p {
   color: #766a63;
-  font-size: 18px; 
 }
   
 /*************/
@@ -59,38 +80,40 @@
 }
 
 .lpg-fullbox {
-  display: table;
   width: 100%;
+  /*
   border-width: 1px;
   border-style: solid;
   border-color: black;
+  */
 }
 
 .lpg-splittable {
   width: 100%;
 }
 
+.lpg-fullcell {
+  text-align: center;
+  vertical-align: middle;
+}
+ 
 .lpg-splitcell {
   text-align: center;
   vertical-align: middle;
   width: 50%;
-  border-width: 1px;
-  border-style: solid;
-  border-color: yellow;
 }
 
-.lpg-splitcell img {
+.lpg-splitcell img,
+.lpg-fullcell img {
   width: 100%;
   height: auto;
 }
 
-.lpg-fullbox h1,
-.lpg-splitbox h1 {
+h1 {
   font-family: "hvd_fonts_-_brandongrotesque-black", "Josefin Sans", sans-serif;
 }
 
-.lpg-fullbox p,
-.lpg-splitbox p {
+p {
   font-family: "hvd_fonts_-_brandongrotesque-regular", "Josefin Sans", sans-serif;
 }
 
@@ -116,7 +139,8 @@
   margin: 0px 0px 0px 0px;
 }
 
-table td, table th {
+table, table td, table th {
+  margin: 0px;
   padding: 0px;
 }
 
