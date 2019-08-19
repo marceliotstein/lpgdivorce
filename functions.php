@@ -13,12 +13,14 @@ function lpg_pagetype() {
   $current_path = str_replace("http://lpgdemo.marceliotstein.net","",$current_path);
 
   $current_page = "HOME";
-  if ($current_path=="our-process") { 
-    $current_page = "PROCESS";
-  } else if ($current_path=="our-practice") { 
+  if ($current_path=="our-practice") { 
     $current_page = "PRACTICE";
+  } else if ($current_path=="our-firm") { 
+    $current_page = "FIRM";
   } else if ($current_path=="in-the-news") { 
     $current_page = "NEWS";
+  } else if ($current_path=="contact") { 
+    $current_page = "CONTACT";
   }
   return($current_page);
 }

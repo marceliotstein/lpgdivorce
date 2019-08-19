@@ -22,15 +22,22 @@
 	</head>
 
   <?php 
-    // determine current page
-    $current_page = "HOME";
-    $hero_image = "lpg-empire-panel";
+    // determine current page for hero image class
+    $hero_class = "lpg-empire-panel";
+    $current_page = lpg_pagetype();
+
+    if ($current_page=="PRACTICE") {
+      $hero_class = "lpg-skyline-panel";
+    } else if ($current_page=="FIRM") {
+    } else if ($current_page=="NEWS") {
+    } else if ($current_page=="CONTACT") {
+    }
   ?>
 
   <body <?php body_class(); ?>>
     <div id="page" class="hfeed site">
       <header id="masthead" class="site-header" role="banner">
-        <div class="<?php echo $hero_image ?>">
+        <div class="<?php echo $hero_class ?>">
           <div class="burger">
             <div class="lpg-logo">
               <a href="/"><img class="lpg-logo-img" alt="LPG Logo" src="/wp-content/themes/apostrophe-2-child/images/lpg-logo-trim.png" /></a>
@@ -46,8 +53,34 @@
 	 	<?php //apostrophe_2_social_menu(); ?>
 	    </nav>
           </div>  
+          <?php if ($current_page=="HOME") { ?>
+            <div class="lpg-home-cell">
+              <div class="lpg-maintitles">
+                <div class="lpg-title lpg-home-title">
+                   <h1>THE LAW FIRM <span class="lpg-title-of">of</span><br />LAURENCE P. GREENBERG</h1>
+                </div>
+                <hr class="lpg-bar" />
+                <div class="lpg-personally">
+                  <h1>WE TAKE YOUR CASE PERSONALLY</h1>
+                </div>
+                <div class="lpg-adept">
+                  <p>The Law Firm of Laurence P. Greenberg is adept in every aspect of matrimonial law &mdash;no matter how complex with victories at both the trial and appellate levels.</p>
+                </div>  
+              </div>  
+            </div>  
+          <?php } else if ($current_page=="PRACTICE") { ?>
+            <div class="lpg-home-cell">
+              <div class="lpg-maintitles">
+                <div class="lpg-title lpg-home-title">
+                   <h1>OUR PRACTICE</h1>
+                </div>
+              </div>  
+            </div>  
+          <?php } else if ($current_page=="FIRM") { ?>
+          <?php } else if ($current_page=="NEWS") { ?>
+          <?php } else if ($current_page=="CONTACT") { ?>
+          <?php }  ?>
         </div>
-
       </header><!-- #masthead -->
 
       <div id="content" class="site-content">
