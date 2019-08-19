@@ -1,5 +1,5 @@
 <?php
-	/**
+/**
  * @package Apostrophe 2
  *
  * The Header for our theme.
@@ -17,29 +17,37 @@
         	<?php wp_head(); ?>
                 <script src="/wp-content/themes/apostrophe-2-child/js/wow.js"></script>
                 <script>
-                  new WOW().init();
+                  //new WOW().init();
                 </script>
 	</head>
 
-	<body <?php body_class(); ?>>
-		<div id="page" class="hfeed site">
+  <?php 
+    // determine current page
+    $current_page = "HOME";
+    $hero_image = "lpg-empire-panel";
+  ?>
 
-			<header id="masthead" class="site-header" role="banner">
-				<div class="site-branding">
-				</div>
+  <body <?php body_class(); ?>>
+    <div id="page" class="hfeed site">
+      <header id="masthead" class="site-header" role="banner">
+        <div class="<?php echo $hero_image ?>">
+          <div class="burger">
+            <div class="lpg-logo">
+              <a href="/"><img class="lpg-logo-img" alt="LPG Logo" src="/wp-content/themes/apostrophe-2-child/images/lpg-logo-trim.png" /></a>
+            </div>
+	    <nav id="site-navigation" class="main-navigation" role="navigation">
+		<a class="menu-toggle"><?php esc_html_e( '', 'apostrophe-2' ); ?></a>
+		<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'apostrophe-2' ); ?></a>
+		<?php wp_nav_menu( array(
+			'theme_location' => 'menu-1',
+			'menu_class'     => 'apostrophe-2-navigation',
+		       )); 
+                ?>
+	 	<?php //apostrophe_2_social_menu(); ?>
+	    </nav>
+          </div>  
+        </div>
 
-				<nav id="site-navigation" class="main-navigation" role="navigation">
-					<a class="menu-toggle"><?php esc_html_e( 'Menu', 'apostrophe-2' ); ?></a>
-					<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'apostrophe-2' ); ?></a>
+      </header><!-- #masthead -->
 
-					<?php wp_nav_menu( array(
-						'theme_location' => 'menu-1',
-						'menu_class'     => 'apostrophe-2-navigation',
-					) ); ?>
-
-					<?php apostrophe_2_social_menu(); ?>
-
-				</nav><!-- #site-navigation -->
-			</header><!-- #masthead -->
-
-			<div id="content" class="site-content">
+      <div id="content" class="site-content">

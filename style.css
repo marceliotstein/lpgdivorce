@@ -285,7 +285,6 @@ table, table td, table th {
   padding-bottom: 15px;
 }
 
-.lpg-logo-img,
 .lpg-footer-logo-img {
   width: 100px;
 }
@@ -311,6 +310,134 @@ table, table td, table th {
 
   .lpg-footer-panel {
     padding: 50px 100px 50px 100px;
+  }
+}
+
+/*****************************/
+/* logo, top menu and burger */
+/*****************************/
+
+.site-branding {
+  display: none;
+}
+
+.apostrophe-2-navigation li a {
+  color: yellow;
+}
+
+.lpg-logo-img {
+  width: 100px;
+}
+
+.lpg-topmenu-item a {
+  color: #ff0000;
+  text-decoration: none;
+}
+
+.lpg-topmenu-item {
+  padding-top: 40px;
+  padding-right: 50px; 
+  font-family: "hvd_fonts_-_brandongrotesque-regular", "Josefin Sans", sans-serif;
+  font-size: .8em;
+  float: right;
+}
+
+#lpg-topmenu-wide {
+  /*display: none;*/
+}
+
+.burger {
+  height: 80px;
+  border-top-style: dashed;
+  border-top-width: 4px;
+  border-top-color: orange;
+}
+
+.main-navigation,
+.main-navigation a {
+  font-family: "hvd_fonts_-_brandongrotesque-regular", "Josefin Sans", sans-serif;
+}
+
+/*
+.main-navigation a:hover {
+  color: white;
+  from { font-size: 1.6em; letter-spacing: .11em; line-height: 1.1em; }
+  to { font-size: 1.4em; letter-spacing: .09em; line-height: 1em; }
+}
+*/
+
+.main-navigation,
+.main-navigation a {
+  font-family: "hvd_fonts_-_brandongrotesque-regular", "Josefin Sans", sans-serif;
+}
+
+.main-navigation .menu-toggle {
+  border-bottom-width: 0px;
+}
+
+.menu-item {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: white;
+}
+
+.menu-item a {
+  color: black;
+}
+
+.main-navigation li {
+  padding: 0px;
+  margin: 0px;
+  float: right;
+}
+
+.main-navigation.toggled-on {
+  background-color: #dde;
+  color: black;
+  position: fixed;
+  right: 0;
+  z-index: 10;
+}
+
+.lpg-logo {
+  position: absolute;
+  left: 28px;
+  top: 28px;
+  text-align: left;
+  border-width: 3px;
+  border-style: dotted;
+  border-color: purple;
+}
+
+.lpg-logo-img,
+.lpg-footer-logo-img {
+  width: 100px;
+}
+
+.main-navigation {
+  margin-top: 0px;
+  border-top-width: 0px;
+}
+
+@media (max-width: 767px) {
+  .main-navigation {
+    /*padding-top: 20px;*/
+  }
+
+  .main-navigation .menu-toggle {
+    padding-right: 20px;
+    float: right;
+  }
+
+  .main-navigation .menu-toggle:before {
+    color: white;
+    font-size: 1.7em;
+  }
+}
+
+@media (min-width: 1024px) {
+  #lpg-topmenu-wide {
+    display: block;
   }
 }
 
