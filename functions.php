@@ -9,8 +9,8 @@ function lpg_pagetype() {
   // determine current page
   global $wp;
   $current_url = home_url(add_query_arg(array(), $wp->request));
-  $current_path = str_replace("http://lpgdemo.marceliotstein.net/","",$current_url);
-  $current_path = str_replace("http://lpgdemo.marceliotstein.net","",$current_path);
+  $current_path = str_replace("http://lpgdev.marceliotstein.net/","",$current_url);
+  $current_path = str_replace("http://lpgdev.marceliotstein.net","",$current_path);
 
   $current_page = "HOME";
   if ($current_path=="our-practice") { 

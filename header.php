@@ -23,8 +23,8 @@
 
   <?php 
     // determine current page for hero image class
-    $hero_class = "lpg-empire-panel";
     $current_page = lpg_pagetype();
+    $hero_class = "lpg-empire-panel";
 
     if ($current_page=="PRACTICE") {
       $hero_class = "lpg-skyline-panel";
@@ -38,10 +38,12 @@
     <div id="page" class="hfeed site">
       <header id="masthead" class="site-header" role="banner">
         <div class="<?php echo $hero_class ?>">
-          <div class="burger">
+          <a href="/">
             <div class="lpg-logo">
-              <a href="/"><img class="lpg-logo-img" alt="LPG Logo" src="/wp-content/themes/apostrophe-2-child/images/lpg-logo-trim.png" /></a>
+              <img class="lpg-logo-img" alt="LPG Logo" src="/wp-content/themes/apostrophe-2-child/images/lpg-logo-trim.png" />
             </div>
+          </a>
+          <div class="burger">
 	    <nav id="site-navigation" class="main-navigation" role="navigation">
 		<a class="menu-toggle"><?php esc_html_e( '', 'apostrophe-2' ); ?></a>
 		<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'apostrophe-2' ); ?></a>
