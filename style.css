@@ -196,7 +196,9 @@ p {
   color: #766a63;
 }
   
+.lpg-narrow-transparency,
 .lpg-narrow-emotional,
+.lpg-wide-transparency,
 .lpg-wide-emotional {
   background-color: #24518b;
   color: yellow; 

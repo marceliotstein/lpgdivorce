@@ -1,0 +1,154 @@
+<div class="lpg-narrowview">
+  <div class="lpg-fullcell lpg-narrow-transparency" data-wow-offset="10">
+    <img src="/wp-content/themes/apostrophe-2-child/images/lpg-ribbon.png">
+    <p class="lpg-our-team-text">At LPG, we take each case individually.<br>We work on your behalf with full transparency.</p>
+    <ul>
+      <li>We listen attentively to get the facts of your case—to spot the legal issues and explain the Laws of the State of New York as they relate to you.</li>
+      <li>We explain how much the process will cost: legal fees, expert fees (if necessary) and other "add-ons" some lawyers forget to mention.</li>
+      <li>We anticipate what the realistic outcomes might be in the case.</li>
+      <li>We proudly work in an ethical and legal manner at all times and keep you informed of who's working on your legal matter.</li>
+    </ul>
+  </div>  
+  <div class="lpg-our-practice-page">
+    <div class="lpg-white-panel-who-we-are"> 
+      <div class="wow xlpg-text-blue-effect" data-wow-offset="10">
+        <strong>WHO WE ARE</strong>
+      </div>
+    </div>
+    <div class="lpg-portraits"> 
+      <div class="lpg-bio-panel">
+        <img src="/wp-content/themes/apostrophe-2-child/images/portrait-laurence-blue.jpg">   
+      </div>
+      <div class="lpg-trans-panel-interior wowx lpg-upstep-interior" data-wow-offset="10">
+        <strong>LAURENCE P. GREENBERG, ESQ.</strong>
+        Laurence P. Greenberg is a matrimonial powerhouse who was recently rated one of NYC's top ten divorce lawyers. He has handled numerous trials in his career, which spans over 20 years and has been devoted to representing clients in complex divorce cases.
+
+Mr. Greenberg has keen interpersonal skills and unique ability to understand the nuances surrounding every client matter, each of which he recognizes as distinct and individual in nature.
+
+Recently, Mr. Greenberg won two consecutive landmark cases in Manhattan whereby income of approximately $1 million per year was imputed to a husband who either failed to properly declare his true earnings or attempted to cheat his spouse out of millions.
+
+Even though he considers the courthouse his second home, he makes every effort to settle cases out of court as long as he can achieve the best result for the client and the client's family.
+
+Laurence is married and has two children currently in elementary school.
+      </div>
+    </div>
+    <div class="lpg-bio-panel">
+      <img src="/wp-content/themes/apostrophe-2-child/images/portrait-michael-blue.jpg"> 
+    </div>
+    <div class="lpg-trans-panel-interior wowx lpg-upstep-interior" data-wow-offset="10">
+      <strong>MICHAEL MACKLOWITZ, ESQ.</strong>
+      Michael Macklowitz, Esq. brings over 40 years of legal experience to the Law Firm of Laurence P. Greenberg.
+
+As a former Assistant District Attorney in Kings County with three decades of private practice specializing in commercial matters, real estate transactions and criminal defense, Michael has extensive trial experience. He frequently works in conjunction with Mr. Greenberg on locating assets, examining closely held businesses and consulting on complex litigation issues, including discovery and trial.
+
+The breadth of Michael's private practice makes him uniquely suited for the firm's more involved and complex matters which often require legal know-how beyond the scope of matrimonial law.
+     </div>   
+     <div class="lpg-bio-panel">
+       <img src="/wp-content/themes/apostrophe-2-child/images/portrait-scarlett-blue.jpg">     
+     </div>
+     <div class="lpg-trans-panel-interior wowx lpg-upstep-interior" data-wow-offset="10">
+       <strong>SCARLETT A. VAN SYOC, ESQ.</strong>
+       Scarlett A. Van Syoc, Esq. is an Associate with the Law Firm of Laurence P. Greenberg. She received a B.A. in English from Cornell University in 2004 and a J.D. from Brooklyn Law School in 2010. While at Brooklyn Law, Scarlett focused her course work on family law and divorce mediation.
+
+Scarlett has been with the firm nearly 10 years and her practice has focused on all aspects of family law including divorce, equitable distribution of closely held businesses and financial assets, spousal and child support, and child custody cases.
+     </div>
+     <div class="lpg-bio-panel">
+       <img src="/wp-content/themes/apostrophe-2-child/images/portrait-seth-blue.jpg"> 
+     </div>
+     <div class="lpg-trans-panel-interior wowx lpg-upstep-interior" data-wow-offset="10">
+       <strong>SETH GINSBERG, ESQ.</strong>
+       Seth Ginsberg graduated cum laude in 1993 from the Benjamin N. Cardozo School of Law, where he was a member of the Cardozo Law Review and trained under renowned attorney Barry C. Scheck. Following graduation, Seth began his career with preeminent litigator Jay Goldberg with whom he represented numerous high net worth individuals in complex matrimonial and commercial matters.
+
+For more than 20 years, Seth has maintained his own firm representing clients in complex litigation from investigation through appeal in both the state and federal courts. Among his matrimonial law successes, in his of counsel capacity to the Law Firm of Laurence P. Greenberg in 2019, Seth was instrumental in the reversal of a trial court decision and the redistribution of eight million dollars in favor of the Firm's client by crafting an appellate brief addressing complicated equitable distribution and asset valuation issues. Seth's practice also includes the representation of clients in private equity financing and related corporate matters.
+     </div>
+     <div class="lpg-bio-panel">
+       <img src="/wp-content/themes/apostrophe-2-child/images/portrait-allen-blue.jpg">       
+     </div>
+    <div class="lpg-trans-panel-interior wowx lpg-upstep-interior" data-wow-offset="10">
+      <strong>ALLEN FRANKEL, ESQ.</strong>
+      Allen Frankel graduated cum laude in 1993 from the Benjamin N. Cardozo School of Law, where he was a member of the Cardozo Law Review and trained in the mediation clinic. Allen has a far-reaching general practice that includes matrimonial and family court matters and many matters that arise collaterally. As a litigator, Allen successfully represents individual and corporate clients in the federal and state courts of New York and New Jersey.
+
+In 2019, Allen was selected for inclusion in New York Super Lawyers for Criminal Defense. Allen also assists the firm in challenging complex equitable distribution issues by employing his extensive experience handling general corporate matters, including negotiation and drafting stock purchase agreements, asset purchase agreements, operating agreements, and partnership and shareholder agreements.
+
+Additionally, he has a broad array of real estate experience, with a speciality in environmental law and license agreements.
+    </div>
+  </div>
+</div>
+<div class="lpg-wideview">
+  <div class="lpg-fullcell lpg-wide-transparency" data-wow-offset="10">
+    <img src="/wp-content/themes/apostrophe-2-child/images/lpg-ribbon.png">
+    <p class="lpg-our-team-text">At LPG, we take each case individually.<br>We work on your behalf with full transparency.</p>
+    <ul>
+      <li>We listen attentively to get the facts of your case—to spot the legal issues and explain the Laws of the State of New York as they relate to you.</li>
+      <li>We explain how much the process will cost: legal fees, expert fees (if necessary) and other "add-ons" some lawyers forget to mention.</li>
+      <li>We anticipate what the realistic outcomes might be in the case.</li>
+      <li>We proudly work in an ethical and legal manner at all times and keep you informed of who's working on your legal matter.</li>
+    </ul>
+  </div>  
+  <div class="lpg-our-practice-page">
+    <div class="lpg-white-panel-who-we-are"> 
+      <div class="wow xlpg-text-blue-effect" data-wow-offset="10"><strong>WHO WE ARE</strong></div>
+    </div>
+    <div class="lpg-portraits">
+        <div class="lpg-bio-panel">
+          <img src="/wp-content/themes/apostrophe-2-child/images/portrait-laurence.png">
+        </div>
+        <div class="lpg-trans-panel-interior-half wowx lpg-upstep-interior" data-wow-offset="10">
+          <strong>LAURENCE P. GREENBERG, ESQ.</strong>
+Laurence P. Greenberg is a matrimonial powerhouse who was recently rated one of NYC's top ten divorce lawyers. He has handled numerous trials in his career, which spans over 20 years and has been devoted to representing clients in complex divorce cases.
+
+Mr. Greenberg has keen interpersonal skills and unique ability to understand the nuances surrounding every client matter, each of which he recognizes as distinct and individual in nature.
+
+Recently, Mr. Greenberg won two consecutive landmark cases in Manhattan whereby income of approximately $1 million per year was imputed to a husband who either failed to properly declare his true earnings or attempted to cheat his spouse out of millions.
+
+Even though he considers the courthouse his second home, he makes every effort to settle cases out of court as long as he can achieve the best result for the client and the client's family.
+
+Laurence is married and has two children currently in elementary school.
+     <hr>
+    </div>
+    <div class="lpg-bio-panel">
+      <img src="/wp-content/themes/apostrophe-2-child/images/portrait-michael.png"></div>
+<div class="lpg-trans-panel-interior-half wowx lpg-upstep-interior" data-wow-offset="10">
+      <strong>MICHAEL MACKLOWITZ, ESQ.</strong>
+
+Michael Macklowitz, Esq. brings over 40 years of legal experience to the Law Firm of Laurence P. Greenberg.
+
+As a former Assistant District Attorney in Kings County with three decades of private practice specializing in commercial matters, real estate transactions and criminal defense, Michael has extensive trial experience. He frequently works in conjunction with Mr. Greenberg on locating assets, examining closely held businesses and consulting on complex litigation issues, including discovery and trial.
+
+The breadth of Michael's private practice makes him uniquely suited for the firm's more involved and complex matters which often require legal know-how beyond the scope of matrimonial law.
+      <hr>
+    </div>
+    <div class="lpg-bio-panel">
+      <img src="/wp-content/themes/apostrophe-2-child/images/portrait-scarlett.png"> . 
+    </div>
+    <div class="lpg-trans-panel-interior-half wowx lpg-upstep-interior" data-wow-offset="10">
+      <strong>SCARLETT A. VAN SYOC, ESQ.</strong>
+Scarlett A. Van Syoc, Esq. is an Associate with the Law Firm of Laurence P. Greenberg. She received a B.A. in English from Cornell University in 2004 and a J.D. from Brooklyn Law School in 2010. While at Brooklyn Law, Scarlett focused her course work on family law and divorce mediation.
+
+Scarlett has been with the firm nearly 10 years and her practice has focused on all aspects of family law including divorce, equitable distribution of closely held businesses and financial assets, spousal and child support, and child custody cases.
+      <hr>
+    </div> 
+    <div class="lpg-bio-panel">
+      <img src="/wp-content/themes/apostrophe-2-child/images/portrait-seth.png">
+    </div>
+    <div class="lpg-trans-panel-interior-half wowx lpg-upstep-interior" data-wow-offset="10">
+      <strong>SETH GINSBERG, ESQ.</strong>
+Seth Ginsberg graduated cum laude in 1993 from the Benjamin N. Cardozo School of Law, where he was a member of the Cardozo Law Review and trained under renowned attorney Barry C. Scheck. Following graduation, Seth began his career with preeminent litigator Jay Goldberg with whom he represented numerous high net worth individuals in complex matrimonial and commercial matters.
+
+For more than 20 years, Seth has maintained his own firm representing clients in complex litigation from investigation through appeal in both the state and federal courts. Among his matrimonial law successes, in his of counsel capacity to the Law Firm of Laurence P. Greenberg in 2019, Seth was instrumental in the reversal of a trial court decision and the redistribution of eight million dollars in favor of the Firm's client by crafting an appellate brief addressing complicated equitable distribution and asset valuation issues. Seth's practice also includes the representation of clients in private equity financing and related corporate matters.
+      <hr>
+    </div>
+    <div class="lpg-bio-panel">
+      <img src="/wp-content/themes/apostrophe-2-child/images/portrait-allen.png"></div>
+<div class="lpg-trans-panel-interior-half wowx lpg-upstep-interior" data-wow-offset="10">
+      <strong>ALLEN FRANKEL, ESQ.</strong>
+
+Allen Frankel graduated cum laude in 1993 from the Benjamin N. Cardozo School of Law, where he was a member of the Cardozo Law Review and trained in the mediation clinic. Allen has a far-reaching general practice that includes matrimonial and family court matters and many matters that arise collaterally. As a litigator, Allen successfully represents individual and corporate clients in the federal and state courts of New York and New Jersey.
+
+In 2019, Allen was selected for inclusion in New York Super Lawyers for Criminal Defense. Allen also assists the firm in challenging complex equitable distribution issues by employing his extensive experience handling general corporate matters, including negotiation and drafting stock purchase agreements, asset purchase agreements, operating agreements, and partnership and shareholder agreements.
+
+Additionally, he has a broad array of real estate experience, with a speciality in environmental law and license agreements.
+      </div>
+    </div>
+  </div>
+</div>

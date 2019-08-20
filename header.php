@@ -79,6 +79,13 @@
               </div>  
             </div>  
           <?php } else if ($current_page=="FIRM") { ?>
+            <div class="lpg-home-cell">
+              <div class="lpg-maintitles">
+                <div class="lpg-title lpg-home-title">
+                   <h1>OUR FIRM</h1>
+                </div>
+              </div>  
+            </div>  
           <?php } else if ($current_page=="NEWS") { ?>
           <?php } else if ($current_page=="CONTACT") { ?>
           <?php }  ?>

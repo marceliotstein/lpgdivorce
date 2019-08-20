@@ -1,0 +1,140 @@
+<!-- 
+
+MOBILE 
+
+-->
+<div class="lpg-narrowview">
+<table class="lpg-narrowtable">
+<!-- 
+
+mobile - emotional process
+
+-->
+  <tr><td class="lpg-fullcell lpg-narrow-emotional">
+    <div class="lpg-center-ribbon"><img src="/wp-content/themes/apostrophe-2-child/images/lpg-ribbon.png" /></div>
+    <p>A divorce is an extremely emotional and personal process. Whether you are a public figure or not, service and confidentiality are at the core of our representation.</p>
+  </td></tr>
+<!-- 
+
+mobile - protecting children
+
+-->
+  <tr><td class="lpg-fullcell lpg-narrow-protecting">
+      <h1>PROTECTING THE CHILDREN</h1>
+  </td></tr>
+  <tr><td class="lpg-fullcell lpg-narrow-troubling">
+      <p>One of the most troubling aspects of divorce is the effect it has on children. Your actions and statements impact your children and how third parties perceive the actions within the context of a custody dispute, decision-making and parenting access. That's why LPG counsels clients thoughtfully and thoroughly on custody matters.<br><br>
+As an involved father, Mr. Greenberg is steadfast in attempting to resolve this issues out of court, but when faced with no viable alternative, will go to trial if the circumstances warrant it.</p>
+  </td></tr>
+<!-- 
+
+mobile - the stakes are high
+
+-->
+  <tr><td class="lpg-fullcell lpg-narrow-stakes">
+      <h1>THE STAKES ARE HIGH</h1>
+  </td></tr>
+  <tr><td class="lpg-fullcell lpg-narrow-notbound">
+      <p>In New York State, the court is not bound by a parties' own account of their finances, nor should they be. So we scrape beneath the surface of tax returns. It often requires absorbing large amount of financial information quickly.</p>
+<p>Aside from litigating what's been called the "most complicated financial trial" by an acting Supreme Court Justice in Manhattan, LPG has achieved results that were previously believed to be impossible, including a disproportionate award of marital assets to one spouse due to the misconduct of the other.</p>
+  </td></tr>
+<!-- 
+
+mobile - control the process
+
+-->
+ <tr><td class="lpg-fullcell lpg-narrow-control">
+      <h1>CONTROL THE PROCESS</h1>
+ </td></tr>
+ <tr><td class="lpg-fullcell lpg-narrow-aspects">
+      <p>LPG works for you and helps to empower you through this journey. Here's a few things to understand.</p>
+      <div class="lpg-box-star">
+        <img src="/wp-content/themes/apostrophe-2-child/images/star-diamond-white.png">
+      </div>
+      <div class="lpg-control-textbox">
+        <p>You have the right to control the process but there will be some aspects of your divorce that will be beyond your control.<br><br>You have the right to advise your lawyer about how you prefer your divorce matter handled, whether it is amicably or aggressively.<br><br>You have the right to ask questions when you do not understand something. The entire process is emotionally difficult and we do our best to answer your questions.<br><br>You have the right to understand and identify the various experts and other third parties that may become involved in your matter and how much their services will cost.</p>
+  </td></tr>
+<!-- 
+
+narrow - changing counsel 
+
+-->
+  <tr><td class="lpg-fullcell lpg-narrow-changing">
+      <h1>CHANGING COUNSEL</h1>
+  </td></tr>
+  <tr><td class="lpg-fullcell lpg-narrow-secondopinion">
+      <p>There's nothing wrong with "getting a second opinion" and if you are considering this, rest assured that your consultation with LPG will remain in strictest of confidence.<br><br>
+   Changing counsel in divorce matters is common in New York State and can be as simple as signing a form called a "Consent to Change Attorney". If you are considered changing legal counsel it is crucial that you leave ample time to get "up to speed" in your case, prior to trial, so that a change in legal counsel is worthwhile.</p>
+  </td></tr>
+  </table>
+</div>
+<!-- 
+
+WIDE 
+
+-->
+<div class="lpg-wideview">
+  <table class="lpg-widetable">
+<!-- 
+
+wide - emotional process
+
+-->
+  <tr><td class="lpg-fullcell lpg-wide-emotional">
+    <div class="lpg-center-ribbon"><img src="/wp-content/themes/apostrophe-2-child/images/lpg-ribbon.png" /></div>
+    <p>A divorce is an extremely emotional and personal process. Whether you are a public figure or not, service and confidentiality are at the core of our representation.</p>
+  </td></tr>
+<!-- 
+
+wide - protecting the children
+
+-->
+    <tr><td class="lpg-fullcell lpg-wide-protecting">
+      <h1>PROTECTING THE CHILDREN</h1>
+    </td></tr>
+    <tr><td class="lpg-fullcell lpg-wide-troubling">
+      <p>One of the most troubling aspects of divorce is the effect it has on children. Your actions and statements impact your children and how third parties perceive the actions within the context of a custody dispute, decision-making and parenting access. That's why LPG counsels clients thoughtfully and thoroughly on custody matters.<br><br>
+As an involved father, Mr. Greenberg is steadfast in attempting to resolve this issues out of court, but when faced with no viable alternative, will go to trial if the circumstances warrant it.</p>
+    </td></tr>
+<!-- 
+
+wide - the stakes are high
+
+-->
+    <tr><td class="lpg-fullcell lpg-wide-stakes">
+      <h1>THE STAKES ARE HIGH</h1>
+    </td></tr>
+    <tr><td class="lpg-fullcell lpg-wide-notbound">
+      <p>In New York State, the court is not bound by a parties' own account of their finances, nor should they be. So we scrape beneath the surface of tax returns. It often requires absorbing large amount of financial information quickly.</p>
+<p>Aside from litigating what's been called the "most complicated financial trial" by an acting Supreme Court Justice in Manhattan, LPG has achieved results that were previously believed to be impossible, including a disproportionate award of marital assets to one spouse due to the misconduct of the other.</p>
+    </td></tr>
+<!-- 
+
+wide - control the process
+
+-->
+   <tr><td class="lpg-fullcell lpg-wide-control">
+     <h1>CONTROL THE PROCESS</h1>
+   </td></tr>
+   <tr><td class="lpg-fullcell lpg-wide-aspects">
+     <p>LPG works for you and helps to empower you through this journey. Here's a few things to understand.</p>
+     <div class="lpg-box-star">
+       <img src="/wp-content/themes/apostrophe-2-child/images/star-diamond-white.png">
+     </div>
+     <div class="lpg-control-textbox">
+       <p>You have the right to control the process but there will be some aspects of your divorce that will be beyond your control.<br><br>You have the right to advise your lawyer about how you prefer your divorce matter handled, whether it is amicably or aggressively.<br><br>You have the right to ask questions when you do not understand something. The entire process is emotionally difficult and we do our best to answer your questions.<br><br>You have the right to understand and identify the various experts and other third parties that may become involved in your matter and how much their services will cost.</p>
+    </td></tr>
+<!-- 
+
+wide - changing counsel
+
+-->
+    <tr><td class="lpg-fullcell lpg-wide-changing">
+      <h1>CHANGING COUNSEL</h1>
+    </td></tr>
+    <tr><td class="lpg-fullcell lpg-wide-secondopinion">
+      <p>There's nothing wrong with "getting a second opinion" and if you are considering this, rest assured that your consultation with LPG will remain in strictest of confidence.<br><br>
+   Changing counsel in divorce matters is common in New York State and can be as simple as signing a form called a "Consent to Change Attorney". If you are considered changing legal counsel it is crucial that you leave ample time to get "up to speed" in your case, prior to trial, so that a change in legal counsel is worthwhile.</p>
+    </td></tr>
+  </table>
+</div>
