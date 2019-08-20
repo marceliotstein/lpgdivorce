@@ -34,6 +34,25 @@ p {
   font-size: 27px; 
 }
 
+/***********/
+/* gadgets */
+/***********/
+
+.lpg-box-star {
+  margin: 0 auto;
+  width: 40px;
+}
+
+.lpg-box-star img {
+  position: relative;
+  z-index: 1;
+}
+
+.lpg-center-ribbon {
+  text-align: center;
+  margin: 0 auto;
+}
+
 /****************/
 /* box specific */
 /****************/
@@ -116,6 +135,36 @@ p {
 
 .lpg-split-experienced p {
   color: #766a63;
+}
+  
+.lpg-narrow-emotional,
+.lpg-wide-emotional {
+  background-color: #24518b;
+  color: white;
+}
+
+.lpg-narrow-protecting {
+  background: url("/wp-content/themes/apostrophe-2-child/images/children-standard.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+  
+.lpg-narrow-stakes {
+  background: url("/wp-content/themes/apostrophe-2-child/images/branches-standard.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+  
+.lpg-narrow-control {
+  background: url("/wp-content/themes/apostrophe-2-child/images/park-standard.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 600px;
 }
   
 /*************/
