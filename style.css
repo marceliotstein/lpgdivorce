@@ -16,6 +16,11 @@
 /* basic styles */
 /****************/
 
+table, tr, td, tbody {
+  border-collapse: collapse !important;
+  border: none !important;
+}
+
 .lpg-blue {
   color: #24518b;
 }
@@ -46,6 +51,16 @@ p {
 .lpg-box-star img {
   position: relative;
   z-index: 1;
+}
+  
+.lpg-control-textbox {
+  position: relative;
+  transform: translateY(-20.1px);
+  border-width: 2px;
+  border-color: #3f84a5;
+  border-style: solid;
+  padding: 30px 20px 20px 20px;
+  z-index: .5;
 }
 
 .lpg-center-ribbon {
@@ -89,23 +104,6 @@ p {
   height: 600px;
 }
 
-.lpg-narrow-ability,
-.lpg-narrow-advocate,
-.lpg-narrow-seasoned,
-.lpg-narrow-handshake {
-  height: 600px;
-  padding-left: 7%;
-  padding-right: 7%;
-}
-
-.lpg-narrow-experienced h1 {
-  color: #24518b;
-}
-
-.lpg-narrow-advocate p {
-  color: #766a63;
-}
-  
 .lpg-wide-bronze {
   background: url("/wp-content/themes/apostrophe-2-child/images/lpg-statue.jpg");
   background-size: cover;
@@ -124,6 +122,67 @@ p {
   height: 600px;
 }
 
+.lpg-narrow-protecting,
+.lpg-wide-protecting {
+  background: url("/wp-content/themes/apostrophe-2-child/images/children-standard.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+  
+.lpg-narrow-stakes,
+.lpg-wide-stakes {
+  background: url("/wp-content/themes/apostrophe-2-child/images/branches-standard.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+  
+.lpg-narrow-control,
+.lpg-wide-control {
+  background: url("/wp-content/themes/apostrophe-2-child/images/park-standard.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.lpg-narrow-changing,
+.lpg-wide-changing {
+  background: url("/wp-content/themes/apostrophe-2-child/images/signature-standard.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.lpg-narrow-protecting,
+.lpg-narrow-notbound,
+.lpg-narrow-aspects,
+.lpg-narrow-secondopinion,
+.lpg-wide-protecting,
+.lpg-wide-notbound,
+.lpg-wide-aspects,
+.lpg-wide-secondopinion,
+.lpg-narrow-ability,
+.lpg-narrow-advocate,
+.lpg-narrow-seasoned,
+.lpg-narrow-handshake {
+  height: 600px;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.lpg-narrow-experienced h1 {
+  color: #24518b;
+}
+
+.lpg-narrow-advocate p {
+  color: #766a63;
+}
+  
 .lpg-split-experienced {
   height: 100%;
   padding: 0px 20px 0px 20px;
@@ -140,33 +199,9 @@ p {
 .lpg-narrow-emotional,
 .lpg-wide-emotional {
   background-color: #24518b;
-  color: white;
+  color: yellow; 
 }
 
-.lpg-narrow-protecting {
-  background: url("/wp-content/themes/apostrophe-2-child/images/children-standard.jpg");
-  background-size: cover;
-  background-position: center bottom;
-  background-repeat: no-repeat;
-  height: 600px;
-}
-  
-.lpg-narrow-stakes {
-  background: url("/wp-content/themes/apostrophe-2-child/images/branches-standard.jpg");
-  background-size: cover;
-  background-position: center bottom;
-  background-repeat: no-repeat;
-  height: 600px;
-}
-  
-.lpg-narrow-control {
-  background: url("/wp-content/themes/apostrophe-2-child/images/park-standard.jpg");
-  background-size: cover;
-  background-position: center bottom;
-  background-repeat: no-repeat;
-  height: 600px;
-}
-  
 /*************/
 /* box model */
 /*************/
